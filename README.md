@@ -17,11 +17,10 @@ The following resources(and tools) were used for this test:
 1. Emails for analysis were downloaded from `https://github.com/rf-peixoto/phishing_pot`
 2. Thunderbird Mail as our Mail User Agent (MUA)
 3. Sublime Text 
-4. emldump.py and oledump are open-source python tools for email forensic analysis created by Didier Stevens `https://github.com/didierstevens/didierstevenssuite`
-5. eioc.py is another open-source python tool for forensic analysis created by MalwareCube `https://github.com/MalwareCube/Email-IOC-Extractor`
-6. Virus Total `https://www.virustotal.com/gui/home/upload`
-7. Whois Domain tools `https://whois.domaintools.com/`
-8. Cyberchef `https://gchq.github.io/CyberChef/`
+4. eioc.py is another open-source python tool for forensic analysis created by MalwareCube `https://github.com/MalwareCube/Email-IOC-Extractor`
+5. Virus Total `https://www.virustotal.com/gui/home/upload`
+6. Whois Domain tools `https://whois.domaintools.com/`
+
 
 ## Email Analysis 
 In order to perfom this email analysis, I downloaded a sample email of a real email from the github repository `phishing_pot` collected by the creator, Rodrigo F. Peixoto (`rf-peixoto`).
